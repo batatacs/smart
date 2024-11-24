@@ -3227,7 +3227,7 @@ label {
   }
 }
 .cs_hero.cs_style_1 .cs_hero_title {
-  font-size: 60px;
+  font-size: 40px;
   line-height: 1.26em;
   max-width: 700px;
   margin-bottom: 40px;
@@ -3389,7 +3389,7 @@ label {
 }
 @media (max-width: 767px) {
   .cs_hero.cs_style_2 .cs_hero_title {
-    font-size: 32px;
+    font-size: 20px;
     margin-bottom: 20px;
   }
   .cs_hero.cs_style_2 .cs_hero_title br {
